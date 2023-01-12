@@ -1,6 +1,7 @@
 # Veri Yapıları ve Algoritmalar
 # Selection Sort Projesi
 # Proje 1 
+[Proje 1](https://metebilgicofficial.github.io/kodluyoruzSelectionSortProject/)
 ## [22,27,16,2,18,6] -> Insertion Sort
 
 #### İnsertion sort için aşamalarımız;
