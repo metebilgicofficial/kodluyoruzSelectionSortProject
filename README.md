@@ -1,2 +1,2 @@
-# kodluyoruzSelectionSortProjec
+# kodluyoruzSelectionSortProject
  
