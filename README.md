@@ -31,6 +31,4 @@ Tanımlarına göre 18 sayısı Average case kapsamına girer.
 [Patika](https://www.patika.dev/tr)
 
 ## Kodluyoruz-Patika-resim
-
-![][def]
-[def]: img/resim.png
+![This is an image](img/resim.png)
